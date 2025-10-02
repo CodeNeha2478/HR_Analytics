@@ -1,8 +1,8 @@
 # HR Analytics
 
-### 👉 Live Dashboard  [Click here](https://app.powerbi.com/view?r=eyJrIjoiMjQ2MjYzMjgtZThiZi00ZDYwLWJmNTItMGFmMjk1OTljNGQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+### 👉 Live Dashboard: [Click here](https://app.powerbi.com/view?r=eyJrIjoiMjQ2MjYzMjgtZThiZi00ZDYwLWJmNTItMGFmMjk1OTljNGQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
-### 👉 Dataset Link  [Click here](https://drive.google.com/file/d/1vK3_HR_ugu4vULI1NJBboVnw0Oyl6YMT/view?usp=sharing)  
+### 👉 Dataset Link:  [Click here](https://drive.google.com/file/d/1vK3_HR_ugu4vULI1NJBboVnw0Oyl6YMT/view?usp=sharing)  
 
 ---
 
